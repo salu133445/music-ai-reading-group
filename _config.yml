@@ -199,7 +199,8 @@ yat:
 markdown: kramdown
 kmarkdown:
   input: GFM
-
+# theme: owner/name --> Don't forget to remove/comment the gem-based theme option
+remote_theme: "jeffreytse/jekyll-theme-yat"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
