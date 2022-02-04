@@ -20,8 +20,8 @@ permalink:           /:title
 plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
-title:		           'French ML Reading Group'
-description:	       "by MVA students"
+title:		           'Music + AI Reading Group'
+description:	       "by Mila x Vector"
 author:              'Hugo Sonnery'
 
 # RSS 2.0 can be used instead of Atom by uncommenting following two lines
