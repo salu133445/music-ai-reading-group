@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
-author: "Yusong Wu"
+title: "Episode 14 : Music creation with deep learning techniques : Origins, achievements and challenges"
+author: "Jean-Pierre Briot and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-14-jean-pierre-briot.png
 ---
 
 Abstract : 

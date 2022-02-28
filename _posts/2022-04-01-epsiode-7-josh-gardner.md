@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
-author: "Yusong Wu"
+title: "Episode 7 : MT3: Multi-Task Multitrack Music Transcription"
+author: "Josh Gardner and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-7-josh-gardner.png
 ---
 
 Abstract : 

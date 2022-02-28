@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
-author: "Yusong Wu"
+title: "Episode 12 : MP3net: coherent, minute-long music generation from raw audio with a simple convolutional GAN"
+author: "Korneel van den Broek and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-12-korneel-van-den-broek.png
 ---
 
 Abstract : 

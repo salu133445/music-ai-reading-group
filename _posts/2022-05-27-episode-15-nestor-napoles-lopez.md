@@ -1,10 +1,11 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
-author: "Yusong Wu"
+title: "Episode 15 : Automatic Roman Numeral Analysis in 
+Symbolic Music Representations"
+author: "Néstor Nápoles López and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-15-nestor-napoles-lopez.png
 ---
 
 Abstract : 

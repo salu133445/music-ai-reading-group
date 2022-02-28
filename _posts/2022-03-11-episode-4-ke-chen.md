@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Episode 4 : Zero-shot Audio Source Separation through Query-based Learning from Weakly-Labeled Data"
-author: "Yusong Wu"
+author: "Ke Chen and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-4-ke-chen.png
 ---
 
 Abstract : 

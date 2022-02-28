@@ -2,10 +2,10 @@
 layout: post
 title: "Episode 3 : Error Detection in Symbolic Music 
 for OMR Preprocessing"
-author: "Yusong Wu"
+author: "Timothy de Reuse and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-3-timothy-de-reuse.png
 ---
 
 Abstract : 

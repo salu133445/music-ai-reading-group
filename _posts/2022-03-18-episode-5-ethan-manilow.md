@@ -1,10 +1,10 @@
 ---
 layout: post
 title: "Episode 5 : Improving Source Separation by Explicitly Modeling Dependencies Between Sources"
-author: "Yusong Wu"
+author: "Ethan Manilow and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: 2022-02-04-episode-1-yusong-wu.md
+image: episode-5-ethan-manilow.png
 ---
 
 Abstract : 
