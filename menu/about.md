@@ -2,7 +2,10 @@
 layout: page
 title: About
 permalink: /about
+youtubeId: 5bdX5i0nAWw
 ---
+
+{% include youtubeplayer.html id=page.youtubeId %}
 
 Together with fellow researchers at [Mila (the Québec AI Institute)](https://groups.google.com/g/music_reading_group){:target="_blank"} and the [Vector Institute](https://vectorinstitute.ai/){:target="_blank"}, we have the pleasure of inviting you to join the **Music + AI Reading Group**. Our reading group gathers **every Friday at 2pm Eastern Time**. 
 
