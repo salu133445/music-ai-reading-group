@@ -9,9 +9,9 @@ google-ID: 'UA-204831507-2'
 menu:
 - {name: 'About', url: 'about'}
 - {name: 'Blog', url: 'blog'}
-- {name: 'Google Group', link: 'https://groups.google.com/g/music_reading_group'}
-- {name: 'Recordings', link: 'https://www.youtube.com/channel/UCdrzCFRsIFGw2fiItAk5_Og'}
-- {name: 'Schedule', link: 'https://docs.google.com/spreadsheets/d/1skb83P8I30XHmjnmyEbPAboy3Lrtavt_jHrD-9Q5U44/edit?usp=sharing'}
+- {name: 'Google Group', url: 'https://groups.google.com/g/music_reading_group'}
+- {name: 'Recordings', url: 'https://www.youtube.com/channel/UCdrzCFRsIFGw2fiItAk5_Og'}
+- {name: 'Schedule', url: 'https://docs.google.com/spreadsheets/d/1skb83P8I30XHmjnmyEbPAboy3Lrtavt_jHrD-9Q5U44/edit?usp=sharing'}
 - {name: 'Contribute', url: 'contribute'}
 - {name: 'Contact', url: 'contact'}
 
