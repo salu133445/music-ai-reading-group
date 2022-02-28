@@ -4,6 +4,8 @@ backend:
   site_domain: excitingtimes.github.io/music-ai-reading-group
   repo: music-ai-reading-group
 
+media_folder: "img" # Media files will be stored in the repo under img
+
 collections:
   - name: "blog" # Used in routes, e.g., /admin/collections/blog
     label: "Blog" # Used in the UI
