@@ -25,24 +25,28 @@ supplement: "Here goes supplementary information (*markdown*)."
 
 **Bio** : {{ page.speaker_bio }}
 
-![{{ page.author_name }}]({{ site.github.url }}/assets/img/{{ page.author_picture }}) Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }}){:target="_blank"}'s personal [website]({{ page.personal_website }}){:target="_blank"} for latest updates !
+Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }}){:target="_blank"}'s personal [website]({{ page.personal_website }}){:target="_blank"} for latest updates !
+
+![{{ page.author_name }}]({{ site.github.url }}/assets/img/{{ page.author_picture }}) 
 
 
 
 ## Recording
 
-**Paper** : [{{ page.paper_name }}]({{ page.paper_url }}){:target="_blank"} [{{ page.paper_arxiv_code }}]
 
 **Video recording** of the speaker's presentation :
+
 {% include youtubeplayer.html id=page.youtubeId %}
 
 
 
 ## Paper
 
-**Abstract** : {{ page.abstract }}
+**Paper** : [{{ page.paper_name }}]({{ page.paper_url }}){:target="_blank"} [{{ page.paper_arxiv_code }}]
 
-![{{ page.paper_name }}]({{ site.github.url }}/assets/img/{{ page.illustration }}) [{{ page.paper_name }}]({{ page.paper_url }}){:target="_blank"} [{{ page.paper_arxiv_code }}]
+![{{ page.paper_name }}]({{ site.github.url }}/assets/img/{{ page.illustration }})
+
+**Abstract** : {{ page.abstract }}
 
 
 
