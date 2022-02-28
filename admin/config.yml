@@ -19,7 +19,7 @@ collections:
       - {label: "Categories", name: "categories", widget: "string", default: "Paper presentations"}
       - {label: "Tags", name: "tags", widget: "list", default: "Music generation"}
       - {label: "Image", name: "image", widget: "image", default: "hello-world.png"}
-      - {label: "Author", name: "author", widget: "image", default: "sample-author.jpeg"}
+      - {label: "Author picture", name: "author_picture", widget: "image", default: "sample-author.jpeg"}
       - {label: "Illustration", name: "illustration", widget: "image", default: "hello-world.png"}
       - {label: "Body", name: "body", widget: "markdown", default="
       
