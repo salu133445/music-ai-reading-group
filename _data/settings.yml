@@ -7,8 +7,8 @@ disqus:
 google-ID: 'UA-204831507-2'
 
 menu:
-- {name: 'About', url: 'www.excitingtimes.github.io/music-ai-reading-group/about'}
-- {name: 'Blog', url: 'www.excitingtimes.github.io/music-ai-reading-group/blog'}
+- {name: 'About', link: 'about'}
+- {name: 'Blog', link: 'blog'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
