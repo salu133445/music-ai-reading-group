@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
+title: "Episode 4 : Zero-shot Audio Source Separation through Query-based Learning from Weakly-Labeled Data"
 author: "Yusong Wu"
 categories: journal
 tags: [music-generation, audio, controllable-generation]

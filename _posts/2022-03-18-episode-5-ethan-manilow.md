@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
+title: "Episode 5 : Improving Source Separation by Explicitly Modeling Dependencies Between Sources"
 author: "Yusong Wu"
 categories: journal
 tags: [music-generation, audio, controllable-generation]

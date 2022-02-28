@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
+title: "Episode 3 : Error Detection in Symbolic Music 
+for OMR Preprocessing"
 author: "Yusong Wu"
 categories: journal
 tags: [music-generation, audio, controllable-generation]

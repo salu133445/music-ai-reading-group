@@ -1,7 +1,9 @@
 ---
 layout: post
-title: "Episode 2 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
-author: ["Sevag Hanssian", "Hugo Sonnery"]
+title: "Episode 2 : Music demixing with the sliCQ Transform"
+authors: 
+- Sevag Hanssian
+- Hugo Sonnery
 categories: journal
 tags: [music-generation, audio, controllable-generation]
 image: 2022-02-04-episode-1-yusong-wu.md
