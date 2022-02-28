@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-13-andres-ferraro.png
 author_picture: andres-ferraro.jpeg
 illustration: illustration-andres-ferraro.png
+youtubeId: 9X5u8tKUecY
 ---

@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-20-gaetan-hadjeres.png
 author_picture: gaetan-hadjeres.jpeg
 illustration: illustration-gaetan-hadjeres.png
+youtubeId: 9X5u8tKUecY
 ---

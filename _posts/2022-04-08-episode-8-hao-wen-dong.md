@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-8-hao-wen-dong.png
 author_picture: hao-wen-dong.jpeg
 illustration: illustration-hao-wen-dong.png
+youtubeId: 9X5u8tKUecY
 ---

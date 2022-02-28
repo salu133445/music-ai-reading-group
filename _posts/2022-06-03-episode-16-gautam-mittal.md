@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-16-gautam-mittal.png
 author_picture: gautam-mittal.jpeg
 illustration: illustration-gautam-mittal.png
+youtubeId: 9X5u8tKUecY
 ---

@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-11-daphne-lafleur.png
 author_picture: daphne-lafleur.jpeg
 illustration: illustration-daphne-lafleur.png
+youtubeId: 9X5u8tKUecY
 ---

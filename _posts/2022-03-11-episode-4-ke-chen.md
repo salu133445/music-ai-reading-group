@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-4-ke-chen.png
 author_picture: ke-chen.jpeg
 illustration: illustration-ke-chen.png
+youtubeId: 9X5u8tKUecY
 ---

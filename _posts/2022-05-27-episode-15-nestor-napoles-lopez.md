@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-15-nestor-napoles-lopez.png
 author_picture: nestor-napoles-lopez.jpeg
 illustration: illustration-nestor-napoles-lopez.png
+youtubeId: 9X5u8tKUecY
 ---

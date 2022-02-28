@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-21-michael-moshe-michelashvili.png
 author_picture: michael-moshe-michelashvili.jpeg
 illustration: michael-moshe-michelashvili.png
+youtubeId: 9X5u8tKUecY
 ---

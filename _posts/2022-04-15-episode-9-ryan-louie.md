@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-9-ryan-louie.png
 author_picture: ryan-louie.jpeg
 illustration: illustration-ryan-louie.png
+youtubeId: 9X5u8tKUecY
 ---

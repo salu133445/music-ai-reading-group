@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-19-kristy-choi.png
 author_picture: kristy-choi.jpeg
 illustration: illustration-kristy-choi.png
+youtubeId: 9X5u8tKUecY
 ---

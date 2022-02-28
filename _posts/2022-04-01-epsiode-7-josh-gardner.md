@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-7-josh-gardner.png
 author_picture: josh-gardner.jpeg
 illustration: illustration-josh-gardner.png
+youtubeId: 9X5u8tKUecY
 ---

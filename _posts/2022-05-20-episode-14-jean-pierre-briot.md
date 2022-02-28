@@ -7,4 +7,5 @@ tags: [music-generation, audio, controllable-generation]
 image: episode-14-jean-pierre-briot.png
 author_picture: jean-pierre-briot.jpeg
 illustration: illustration-jean-pierre-briot.png
+youtubeId: 9X5u8tKUecY
 ---
