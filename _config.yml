@@ -21,7 +21,7 @@ plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-t
 
 # Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
 title:		           'Music + AI Reading Group'
-description:	       'Forum of researchers, students and professors working at the intersection of Music and Machine Learning.'
+description:	       'by Mila x Vector'
 author:              'Hugo Sonnery and Yusong Wu'
 twitter_username:    'volut3s'
 github_username:     'excitingtimes'
