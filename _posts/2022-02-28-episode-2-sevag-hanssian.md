@@ -11,7 +11,7 @@ tags: [music-generation, audio, controllable-generation]
 image: "episode-2-sevag-hanssian.png"
 author_picture: "sevag-hanssian.jpeg"
 illustration: "illustration-sevag-hanssian.png"
-youtubeId: "5D1L4Pqf1ZE"
+youtubeId: "9X5u8tKUecY"
 personal_website: "https://github.com/sevagh"
 laboratory_website: "https://ddmal.music.mcgill.ca/"
 scholar_profile: "https://deepai.org/profile/sevag-hanssian"
