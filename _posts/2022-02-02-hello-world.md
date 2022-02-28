@@ -5,9 +5,8 @@ author: "Hugo Sonnery and Yusong Wu"
 categories: journal
 tags: [general]
 image: hello-world.png
+youtubeId: 5bdX5i0nAWw
 ---
-
-Hello, world.
 
 {% include youtubeplayer.html id=page.youtubeId %}
 
