@@ -21,6 +21,4 @@ collections:
       - {label: "Image", name: "image", widget: "image", default: "hello-world.png"}
       - {label: "Author picture", name: "author_picture", widget: "image", default: "sample-author.jpeg"}
       - {label: "Illustration", name: "illustration", widget: "image", default: "hello-world.png"}
-      - {label: "Body", name: "body", widget: "markdown", default="
-      
-      "}
+      - {label: "Body", name: "body", widget: "markdown", default=""}
