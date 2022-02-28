@@ -1,10 +1,10 @@
 ---
 layout: post
-title: "Episode 15 : Automatic Roman Numeral Analysis in Symbolic Music Representations"
-author: "Néstor Nápoles López and Hugo Sonnery"
+title: "Episode 3 : Error Detection in Symbolic Music for OMR Preprocessing"
+author: "Timothy de Reuse and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
-image: episode-15-nestor-napoles-lopez.png
+image: episode-3-timothy-de-reuse.png
 ---
 
 Abstract : 

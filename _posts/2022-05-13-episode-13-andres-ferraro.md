@@ -1,7 +1,6 @@
 ---
 layout: post
-title: "Episode 13 : Music Recommender Systems: Taking Into
-Account The Artists’ Perspective"
+title: "Episode 13 : Music Recommender Systems: Taking Into Account The Artists’ Perspective"
 author: "Andres Ferraro and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]

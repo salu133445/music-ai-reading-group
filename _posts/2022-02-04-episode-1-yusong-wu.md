@@ -5,6 +5,8 @@ author: "Yusong Wu and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
 image: episode-1-yusong-wu.png
+author: yusong-wu.jpeg
+illustration: illustration-yusong-wu.png
 ---
 
 Abstract : 
