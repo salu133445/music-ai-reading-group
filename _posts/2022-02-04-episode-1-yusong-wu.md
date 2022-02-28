@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "**Episode 1** : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
+title: "Episode 1 : MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
 author: "Yusong Wu and Hugo Sonnery"
 categories: journal
 tags: [music-generation, audio, controllable-generation]
