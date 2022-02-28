@@ -21,7 +21,7 @@ abstract: "Musical expression requires control of both what notes are played, an
 supplement: ""
 ---
 
-## About the speaker
+# About the speaker
 
 **Bio** : {{ page.speaker_bio }}
 
@@ -31,7 +31,7 @@ Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }
 
 
 
-## Recording
+# Recording
 
 
 **Video recording** of the speaker's presentation :
@@ -40,7 +40,7 @@ Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }
 
 
 
-## Paper
+# Paper
 
 **Paper** : [{{ page.paper_name }}]({{ page.paper_url }}){:target="_blank"} [{{ page.paper_arxiv_code }}]
 
@@ -50,7 +50,7 @@ Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }
 
 
 
-## Supplementary material
+# Supplementary material
 
 **Useful resources** : Courtesy of the speaker, the interested reader may find additional information in the *references* below :
 * 🧑‍🔬 {{ page.author_name }}'s [personal website]({{ page.personal_website }}){:target="_blank"}
