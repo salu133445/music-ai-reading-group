@@ -4,7 +4,7 @@ title: "Hello World"
 author: "Hugo Sonnery and Yusong Wu"
 categories: journal
 tags: [general]
-image: episode-1-yusong-wu.png
+image: hello-world.png
 ---
 
 Abstract : 
