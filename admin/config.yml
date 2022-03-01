@@ -15,6 +15,9 @@ collections:
     fields: # The fields for each document, usually in front matter
       - {label: "Layout", name: "layout", widget: "hidden", default: "blog"}
       - {label: "Title", name: "title", widget: "string", default: "Episode 1 : Hello world"}
+      - {label: "Paper URL", name: "paper_url", widget: "string", default: "Episode 1 : Hello world"}
+      - {label: "Paper ArXiv Code", name: "paper_arxiv_code", widget: "string", default: "Episode 1 : Hello world"}
+      - {label: "Author name", name: "author_name", widget: "string", default: "Episode 1 : Hello world"}
       - {label: "Author", name: "author", widget: "string", default: " and Hugo Sonnery"}
       - {label: "Categories", name: "categories", widget: "string", default: "Paper presentations"}
       - {label: "Tags", name: "tags", widget: "list", default: "Music generation"}
@@ -22,3 +25,30 @@ collections:
       - {label: "Author picture", name: "author_picture", widget: "image", default: "sample-author.jpeg"}
       - {label: "Illustration", name: "illustration", widget: "image", default: "hello-world.png"}
       - {label: "Body", name: "body", widget: "markdown", default=""}
+      - {label: "Youtube ID", name: "youtubeId", widget: "string", default: ""}
+      - {label: "Personal Website", name: "personal_website", widget: "string", default: ""}
+      - {label: "Laboratory Website", name: "laboratory_website", widget: "string", default: ""}
+      - {label: "Scholar Profile", name: "scholar_profile", widget: "string", default: ""}
+      - {label: "Slides URL", name: "slides_url", widget: "string", default: ""}
+      - {label: "Speaker Bio", name: "speaker_bio", widget: "markdown", default: ""}
+      - {label: "Abstract", name: "abstract", widget: "markdown", default: ""}
+      - {label: "Supplement", name: "supplement", widget: "markdown", default: ""}
+
+
+paper_name: "MIDI-DDSP: Detailed Control of Musical Performance via Hierarchical Modeling"
+paper_url: "https://arxiv.org/abs/2112.09312"
+paper_arxiv_code: "arXiv:2112.09312"
+author_name: "Yusong Wu"
+author: "Yusong Wu and Hugo Sonnery"
+categories: journal
+tags: [music-generation, audio, controllable-generation]
+image: "episode-1-yusong-wu.png"
+author_picture: "yusong-wu.jpeg"
+illustration: "illustration-yusong-wu.png"
+youtubeId: "5D1L4Pqf1ZE"
+personal_website: "https://lukewys.github.io/"
+laboratory_website: "https://mila.quebec/en/person/aaron-courville/"
+scholar_profile: "https://scholar.google.com/citations?user=vIuUJ-IAAAAJ&hl=zh-CN"
+slides_url: "https://lukewys.github.io/"
+speaker_bio: "Yusong Wu is a second-year research master student, co-advised by Aaron Courville and Chengzhi Anna Huang. Yusong is interested in music generation with deep generative models."
+abstract: 
