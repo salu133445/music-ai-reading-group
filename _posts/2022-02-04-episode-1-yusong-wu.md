@@ -7,7 +7,10 @@ paper_arxiv_code: "arXiv:2112.09312"
 author_name: "Yusong Wu"
 author: "Yusong Wu and Hugo Sonnery"
 categories: journal
-tags: [music-generation, audio, controllable-generation]
+tags: 
+- music-generation
+- audio
+- deep-learning
 image: "episode-1-yusong-wu.png"
 author_picture: "yusong-wu.jpeg"
 illustration: "illustration-yusong-wu.png"

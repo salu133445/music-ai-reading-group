@@ -7,7 +7,9 @@ paper_arxiv_code: "arXiv:2112.05509"
 author_name: "Sevag Hanssian"
 authors: "Sevag Hanssian and Hugo Sonnery"
 categories: journal
-tags: [music-generation, audio, controllable-generation]
+tags: 
+- audio
+- source-separation
 image: "episode-2-sevag-hanssian.png"
 author_picture: "sevag-hanssian.jpeg"
 illustration: "illustration-sevag-hanssian.png"
