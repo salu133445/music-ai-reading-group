@@ -13,7 +13,7 @@ tags:
 image: episode-3-timothy-de-reuse.png
 author_picture: timothy-de-reuse.jpeg
 illustration: illustration-timothy-de-reuse.png
-youtubeId: https://youtu.be/aNxtX6Gkl9c
+youtubeId: aNxtX6Gkl9c
 personal_website: https://ddmal.music.mcgill.ca/lab_members/phd/timothy_dereuse/
 laboratory_website: https://ddmal.music.mcgill.ca/
 scholar_profile: https://scholar.google.ca/citations?user=vRKhaogAAAAJ&hl=en
