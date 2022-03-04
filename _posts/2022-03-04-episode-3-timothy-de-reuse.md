@@ -7,7 +7,9 @@ author_name: Timothy de Reuse
 author: Timothy de Reuse and Hugo Sonnery
 categories: journal
 tags:
-  - digital-humanities;music-understanding;music-transcription
+  - digital-humanities
+  - music-understanding
+  - music-transcription
 image: episode-3-timothy-de-reuse.png
 author_picture: timothy-de-reuse.jpeg
 illustration: illustration-timothy-de-reuse.png
@@ -48,4 +50,35 @@ abstract: This presentation outlines a machine-learning method for detecting
   output.
 supplement: \-
 ---
-\-
+
+
+# About the speaker
+
+**Bio** : {{ page.speaker_bio }}
+
+Do not hesitate to check out [{{ page.author_name }}]({{ page.scholar_profile }}){:target="_blank"}'s personal [website]({{ page.personal_website }}){:target="_blank"} for latest updates !
+
+
+# Recording
+
+
+**Video recording** of the speaker's presentation :
+
+{% include youtubeplayer.html id=page.youtubeId %}
+
+
+
+# Paper
+
+![{{ page.paper_name }}]({{ site.github.url }}/assets/img/{{ page.illustration }})
+
+**Abstract** : {{ page.abstract }}
+
+
+
+# Supplementary material
+
+**Useful resources** : Courtesy of the speaker, the interested reader may find additional information in the *references* below :
+* 🧑‍🔬 {{ page.author_name }}'s [personal website]({{ page.personal_website }}){:target="_blank"}
+* 🏫 {{ page.author_name }}'s [laboratory_website]({{ page.laboratory_website }}){:target="_blank"}
+* 📚 {{ page.author_name }}'s [google scholar profile]({{ page.scholar_profile }}){:target="_blank"}
