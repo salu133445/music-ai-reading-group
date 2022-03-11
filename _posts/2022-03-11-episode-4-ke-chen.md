@@ -1,18 +1,26 @@
 ---
 layout: post
-title: "Episode 4 : Zero-shot Audio Source Separation through Query-based Learning from Weakly-Labeled Data"
-author: "Ke Chen and Hugo Sonnery"
+title: "Episode 4 : Zero-shot Audio Source Separation through Query-based
+  Learning from Weakly-Labeled Data"
+paper_url: https://arxiv.org/abs/2112.07891
+paper_arxiv_code: https://arxiv.org/abs/2112.07891
+author_name: Ke Chen
+author: Ke Chen and Hugo Sonnery
 categories: journal
-tags: [music-generation, audio, controllable-generation]
-image: "episode-4-ke-chen.png"
-author_picture: "ke-chen.jpeg"
-illustration: "illustration-ke-chen.png"
-youtubeId: "9X5u8tKUecY"
-personal_website: "https://lukewys.github.io/"
-laboratory_website: "https://mila.quebec/en/person/aaron-courville/"
-scholar_profile: "https://scholar.google.com/citations?user=vIuUJ-IAAAAJ&hl=zh-CN"
-slides_url: "https://lukewys.github.io/"
-speaker_bio: "Here goes the speaker bio (*markdown*)."
-abstract: "Here goes the abstract (*markdown*)."
-supplement: "Here goes supplementary information (*markdown*)."
+tags:
+  - source-separation
+  - audio
+  - deep-learning
+image: /assets/img/episode-4-ke-chen.png
+author_picture: /assets/img/ke-chen.jpeg
+illustration: /assets/img/untitled.png
+youtubeId: ZRwazaD6vkA
+personal_website: https://www.knutchen.com/
+laboratory_website: http://dub.ucsd.edu/
+scholar_profile: https://scholar.google.com/citations?user=Uxjw_PIAAAAJ&hl=en
+slides_url: https://www.knutchen.com/
+speaker_bio: Here goes the speaker bio (*markdown*).
+abstract: Here goes the abstract (*markdown*).
+supplement: Here goes supplementary information (*markdown*).
 ---
+Sample
