@@ -12,7 +12,7 @@ tags:
 image: episode-5-ethan-manilow.png
 author_picture: ethan-manilow.jpeg
 illustration: illustration-ethan-manilow.png
-youtubeId: ZRwazaD6vkA
+youtubeId: WVHYUJpjn8Q
 personal_website: https://ethman.github.io/
 laboratory_website: https://interactiveaudiolab.github.io/
 scholar_profile: https://scholar.google.com/citations?user=2A80yVkAAAAJ&hl=en
